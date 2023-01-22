@@ -1,0 +1,11 @@
+/* Style */
+
+.para {
+    background-color: rgb(255, 120, 143);
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+#num2 {
+    color: rgb(5, 5, 232);
+    font-size: 32px;
+}
