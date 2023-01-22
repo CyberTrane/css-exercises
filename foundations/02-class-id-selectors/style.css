@@ -9,3 +9,12 @@
     color: rgb(5, 5, 232);
     font-size: 32px;
 }
+
+#num3, #num4 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(145, 255, 145);
+    font-weight: bold;
+}
