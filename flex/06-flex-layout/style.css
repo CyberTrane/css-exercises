@@ -19,6 +19,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px 14px;
 }
 
 input {
@@ -32,11 +33,19 @@ input {
 ul {
   list-style-type: none;
   display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
 
 .header, .footer {
   display: flex;
+  padding: 16px;
   justify-content: space-between;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
 
 .content {
@@ -46,10 +55,7 @@ ul {
   align-items: center;
 }
 
-.input {
-
-}
-
-.buttons {
-
+a {
+  text-decoration: none;
+  color: gray;
 }
